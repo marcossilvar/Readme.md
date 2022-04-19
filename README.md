@@ -1,2 +1,2 @@
-# Readme.md
-Pequeña intro
+# Marcos Silvar Sánchez
+Repositorio no útil para pruebas FIC UDC
